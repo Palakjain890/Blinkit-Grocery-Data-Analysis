@@ -16,7 +16,6 @@ The goal of this project is to perform **end-to-end sales analysis** of Blinkit 
 ## 🗃️ Dataset Overview
 
 - **Table Name:** `blinkit_data`
-- **Total Rows:** (varies)
 - **Key Fields Used:**
   - `Item_Fat_Content`, `Item_Type`, `Sales`, `Rating`
   - `Outlet_Location_Type`, `Outlet_Establishment_Year`, `Outlet_Size`, `Outlet_Type`
@@ -62,7 +61,7 @@ By Outlet_Type
 
 All SQL queries used are available in the Blinkit Analysis Using SQL.pdf file.
 
-📊 Power BI Dashboard
+### 📊 Power BI Dashboard
 An interactive dashboard was created using Power BI (Blinkit Dashboard.pbix) which includes:
 
 Total sales and average sales cards
@@ -79,7 +78,7 @@ Download and open Blinkit Dashboard.pbix in Power BI Desktop.
 
 Explore the slicers, filters, and visuals for dynamic insights.
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 Integrate forecasting models using Python/Power BI for predictive analytics.
 
 Expand dashboard with customer segmentation and time-series trends.
