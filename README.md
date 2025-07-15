@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Data Analysis Using SQL & Power BI
+# 🛒 Blinkit Data Analysis Using SQL & Power BI
 
 This repository showcases a comprehensive analysis of Blinkit grocery store sales using **SQL for data wrangling** and **Power BI for data visualization**. The project demonstrates how to clean data, generate key metrics (KPIs), and extract actionable insights using SQL, followed by visual storytelling through interactive dashboards.
 
